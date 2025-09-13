@@ -3,7 +3,7 @@
 #include <string>
 using namespace std;
 
-// Read Number
+// Read Number22
 
 void ReadeNumer(int &Number )                      // ReadNumber محتاجة متغير Number بالإشارة → فلازم يكون عندك متغير حقيقي تمرره.
 {
