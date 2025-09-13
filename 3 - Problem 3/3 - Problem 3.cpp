@@ -5,7 +5,7 @@ using namespace std;
 
 void ReadeNumer(int &Number )                      // ReadNumber محتاجة متغير Number بالإشارة → فلازم يكون عندك متغير حقيقي تمرره.
 {
-    cout << " Please enter Number = " << endl;
+    cout << " Please enter a ............... Number = " << endl;
     cin >> Number;
 }
 int ResultNumber(int Number)
